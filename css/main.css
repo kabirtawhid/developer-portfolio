@@ -3,15 +3,21 @@
   font-family: 'Open Sans', sans-serif;
 }
 
-.nav-title{
-  font-size: 45px;
-  font-weight: 800;
-}
 
 .text-primary{
   color: #FD6E0A;
 }
 
-span{
-  color: #FD6E0A;
+
+
+/* #Styling Navigation Bar */
+
+.nav-title{
+  font-size: 45px;
+  font-weight: 800;
+}
+
+/* ## Showing all navigation item in one line */
+.nav{
+  display:flex;   
 }
